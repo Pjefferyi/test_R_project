@@ -12,3 +12,4 @@ usethis::edit_r_environ() # the R environment. Add "GITHUB_PAT=" and paste the t
 #save after 
 
 usethis::git_sitrep()
+usethis::use_github()
